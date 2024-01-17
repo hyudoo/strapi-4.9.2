@@ -1,5 +1,5 @@
 {
-  "name": "strapii",
+  "name": "@strapi/strapi",
   "private": false,
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"
@@ -123,5 +123,5 @@
     "npm": ">=6.0.0"
   },
   "packageManager": "yarn@3.5.0",
-  "version": "0.0.1"
+  "version": "0.0.0"
 }
